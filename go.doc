@@ -1,5 +1,0 @@
-package options // import "github.com/skeptycal/options"
-
-Package options contains utilities for macOS.
-
-func Example()
